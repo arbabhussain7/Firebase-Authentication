@@ -52,6 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or feedback, feel free to reach out at [arbabhussain414@gmail.com](arbabhussain414@gmail.com)
 
----
-
-Feel free to adjust the description to match your project details.
